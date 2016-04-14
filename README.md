@@ -1,3 +1,2 @@
-# python_proyecto
-Proyecto de materia de python
-======================
+# Proyecto python
+Proyecto para materia de python usando pygame
